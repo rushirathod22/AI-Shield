@@ -1,1 +1,1 @@
-THIS IS SECURE Application
+This is Secure Application
